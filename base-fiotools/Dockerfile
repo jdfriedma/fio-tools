@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:18.04
 MAINTAINER <Ryan Wallner ryan.wallner@portworx.com>
 
 RUN apt-get -y update
